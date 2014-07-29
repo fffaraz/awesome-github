@@ -25,6 +25,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) - Emoji emoticons listed on this page are supported on GitHub.
 * [Emoji Searcher](http://emoji.muan.co/) - Emoji finder.
 * [emoji](https://github.com/muan/emoji/) - Easiest way to find the emoji that echoes your mind.
+* [GitHub Emoji](https://gist.github.com/avalanche123/981817) - gist list.
 
 ## Markdown
 
