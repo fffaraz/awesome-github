@@ -12,7 +12,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 
 * [Git Reference](http://gitref.org/)
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - An interactive git visualization to challenge and educate!
-
+---
 * Git Reference [http://gitref.org/basic](http://gitref.org/basic)
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
 * Git Ready [http://gitready.com](http://gitready.com)
