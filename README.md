@@ -14,6 +14,26 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - An interactive git visualization to challenge and educate!
 
 ---
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
+* [Conversational Git](http://blog.anvard.org/conversational-git/)
+* [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
+* [Git Immersion](http://gitimmersion.com)
+* [Git internals](https://github.com/pluralsight/git-internals-pdf/raw/master/drafts/peepcode-git.pdf) - Scott Chacon (PDF)
+* [Git In The Trenches](http://cbx33.github.io/gitt/index.html)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+* [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561/index.html) - Richard E. Silverman
+* [Git Reference](http://www.gitref.org)
+* [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+* [Git Workflows](http://documentup.com/skwp/git-workflows-book)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - Tobias Günther
+* [Pro Git](http://git-scm.com/book) - Scott Chacon
+* [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
+* [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
+* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
+
+---
 * Git Reference [http://gitref.org/basic](http://gitref.org/basic)
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
 * Git Ready [http://gitready.com](http://gitready.com)
@@ -45,6 +65,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Markdown Here Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+* [Learn Markdown](https://www.gitbook.io/book/gitbookio/markdown) (PDF) (EPUB) (MOBI) - GitBookIO, Sammy P., Aaron O.
 
 ## Lists
 
