@@ -26,7 +26,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Git Succinctly, Syncfusion](http://www.syncfusion.com/resources/techportal/ebooks/git) (PDF, Kindle) *(Just fill the fields with any values)*
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown) ***
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
