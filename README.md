@@ -11,7 +11,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 ## Git
 
 * [Git Reference](http://gitref.org/)
-* [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - An interactive git visualization to challenge and educate!
+* [LearnGitBranching](http://pcottle.github.io/learnGitBranching/) - An interactive Git visualization to challenge and educate!
 
 ---
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
@@ -51,7 +51,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 * [GitHub Education](https://github.com/education)
 * [Try Git](https://try.github.io/)
-* [Practice-Git](https://github.com/grayghostvisuals/Practice-Git) - Here we learn all things git.
+* [Practice-Git](https://github.com/grayghostvisuals/Practice-Git) - Here we learn all things Git.
 
 ---
 + [Github Archive](https://github.com/igrigorik/githubarchive.org)
@@ -85,5 +85,5 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 ## Lists
 
 * [lists](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
-* [lologl](https://github.com/yaph/lologl) - List of Lists of Github Lists.
-* [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) - List of github lists.
+* [lologl](https://github.com/yaph/lologl) - List of Lists of GitHub Lists.
+* [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) - List of GitHub lists.
