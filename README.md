@@ -45,6 +45,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * Git: The Simple Guide [http://rogerdudler.github.com/git-guide](http://rogerdudler.github.com/git-guide)
 * Git Immersion [http://gitimmersion.com](http://gitimmersion.com)
 * Git Branching [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
+* [git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of helper scripts for git.
 
 ## GitHub
 
