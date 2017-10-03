@@ -68,6 +68,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Github Repository Collaborators sorted by contributions](https://github.com/oleander/git-fame-rb)
 + [Github Top Users](https://github.com/paulmillr/top-github-users)
 + [Github URL Shortener](http://git.io)
++ [Github Analytics](https://gitential.com)
 
 ## Emoji
 
