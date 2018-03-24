@@ -15,6 +15,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 
 ---
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
+* [Programming Community Curated Resources for Learning Git](https://hackr.io/tutorials/learn-git)
 * [Conversational Git](http://blog.anvard.org/conversational-git/)
 * [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)
 * [Git Immersion](http://gitimmersion.com)
