@@ -33,7 +33,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
-* [Git Commands App cross-platform](https://github.com/mariorodeghiero/git-commands) - Mário Rodeghiero
+* [Git Commands - App cross-platform](https://github.com/mariorodeghiero/git-commands) - Mário Rodeghiero
 
 ---
 * Git Reference [http://gitref.org/basic](http://gitref.org/basic)
