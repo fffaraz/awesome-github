@@ -81,6 +81,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Emoji Searcher](http://emoji.muan.co/) - Emoji finder.
 * [emoji](https://github.com/muan/emoji/) - Easiest way to find the emoji that echoes your mind.
 * [GitHub Emoji](https://gist.github.com/avalanche123/981817) - gist list.
+* [New smileys for WordPress.com](https://github.com/iseulde/new-smileys) - Plugin to make new smileys available to self hosted WordPress installs.
 
 ## Markdown
 
