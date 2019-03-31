@@ -74,6 +74,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Github Top Users](https://github.com/paulmillr/top-github-users)
 + [Github URL Shortener](http://git.io)
 + [Github Analytics](https://gitential.com)
++ [GitHub Analytics for Open-Source](https://gitspo.com/)
 + [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) - Follow new trending repositories in your favorite programming language via GitHub notifications.
 
 ## Emoji
