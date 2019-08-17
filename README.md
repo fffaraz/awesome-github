@@ -76,6 +76,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Github Analytics](https://gitential.com)
 + [GitHub Analytics for Open-Source](https://gitspo.com/)
 + [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) - Follow new trending repositories in your favorite programming language via GitHub notifications.
++ [CoderStats](https://coderstats.net/) - View statistics for GitHub users and organizations.
 
 ## Emoji
 
