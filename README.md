@@ -28,6 +28,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown) ***
+* [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
@@ -54,6 +55,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 ## GitHub
 
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* [GitHub CLI](cli.github.com) - GitHub’s official command line tool.
 * [GitHub Education](https://github.com/education)
 * [Try Git](https://try.github.io/)
 * [Practice-Git](https://github.com/grayghostvisuals/Practice-Git) - Here we learn all things Git.
