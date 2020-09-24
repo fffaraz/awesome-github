@@ -55,7 +55,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 ## GitHub
 
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-* [GitHub CLI](cli.github.com) - GitHub’s official command line tool.
+* [GitHub CLI](https://cli.github.com) - GitHub’s official command line tool.
 * [GitHub Education](https://github.com/education)
 * [Try Git](https://try.github.io/)
 * [Practice-Git](https://github.com/grayghostvisuals/Practice-Git) - Here we learn all things Git.
