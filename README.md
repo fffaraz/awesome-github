@@ -7,6 +7,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 	- [Emoji](#emoji)
 	- [Markdown](#markdown)
 	- [Lists](#lists)
+	- [Apps](#apps)
 
 ## Git
 
@@ -100,3 +101,11 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [lists](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 * [lologl](https://github.com/yaph/lologl) - List of Lists of GitHub Lists.
 * [ListOfGithubLists](https://github.com/asciimoo/ListOfGithubLists) - List of GitHub lists.
+
+## Apps
+
+### Android
+* [GitHub Official App](https://play.google.com/store/apps/details?id=com.github.android&hl=en)
+* [FastHub for GitHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en) - Open source unofficial GitHub client app
+* [OpenHub for GitHub](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=en) - Another open source GitHub client app
+* [OctoDroid for GitHub](https://play.google.com/store/apps/details?id=com.gh4a&hl=en) - Yet another open source GitHub client app
