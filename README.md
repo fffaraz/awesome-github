@@ -37,13 +37,11 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform git visualizer
 
 ---
-* Git Reference [http://gitref.org/basic](http://gitref.org/basic)
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
 * Git Ready [http://gitready.com](http://gitready.com)
 * Quick Command Practice [http://try.github.com](http://try.github.com)
 * Git Real [http://www.codeschool.com/courses/git-real](http://www.codeschool.com/courses/git-real)
 * How to GitHub: Fork, Branch, Track, Squash and Pull Request [http://gun.io/blog/how-to-github-fork-branch-and-pull-request](http://gun.io/blog/how-to-github-fork-branch-and-pull-request)
-* Learn Git Online [http://learn.github.com/p/intro.html](http://learn.github.com/p/intro.html)
 * Teach Github [https://github.com/github/teach.github.com](https://github.com/github/teach.github.com)
 * Git: The Simple Guide [http://rogerdudler.github.com/git-guide](http://rogerdudler.github.com/git-guide)
 * Git Immersion [http://gitimmersion.com](http://gitimmersion.com)
@@ -58,7 +56,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [GitHub Education](https://github.com/education)
 * [Try Git](https://try.github.io/)
 * [Practice-Git](https://github.com/grayghostvisuals/Practice-Git) - Here we learn all things Git.
-* [Top 10 GitHub Best Practices](https://datree.io/blog/top-10-github-best-practices/) - List of best practices to follow when managing repositories on GitHub.
+* [Top GitHub best practices guide for developers](https://www.datree.io/resources/github-best-practices) - List of best practices to follow when managing repositories on GitHub.
 
 ---
 + [Github Archive](https://github.com/igrigorik/githubarchive.org)
