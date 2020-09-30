@@ -30,11 +30,9 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown) ***
 * [Lazygit](https://github.com/jesseduffield/lazygit) - A simple terminal UI for git commands
-* [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book) - Scott Chacon
 * [Pro Git Reedited](https://leanpub.com/progitreedited) - Jon Forrest
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
-* [Version Control by Example (Mercurial, Subversion, Verasity)](http://www.ericsink.com/vcbe/)
 * [Git Commands - App cross-platform](https://github.com/mariorodeghiero/git-commands) - Mário Rodeghiero
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform git visualizer
 
