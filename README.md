@@ -105,3 +105,9 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [FastHub for GitHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en) - Open source unofficial GitHub client app
 * [OpenHub for GitHub](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=en) - Another open source GitHub client app
 * [OctoDroid for GitHub](https://play.google.com/store/apps/details?id=com.gh4a&hl=en) - Yet another open source GitHub client app
+
+### iOS
+* [GitHub Official App](https://apps.apple.com/ca/app/github/id1477376905)
+* [DevHub for GitHub](https://apps.apple.com/ca/app/devhub-for-github/id1191864199)
+* [GitHawk for GitHub](https://apps.apple.com/ca/app/githawk-for-github/id1252320249) - Git notification client
+* [CodeHub - A Client for GitHub](https://apps.apple.com/ca/app/codehub-a-client-for-github/id707173885)
