@@ -57,6 +57,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Try Git](https://try.github.io/)
 * [Practice-Git](https://github.com/grayghostvisuals/Practice-Git) - Here we learn all things Git.
 * [Top GitHub best practices guide for developers](https://www.datree.io/resources/github-best-practices) - List of best practices to follow when managing repositories on GitHub.
+* [Learn about Github](https://www.scaler.com/topics/what-is-github/)
 
 ---
 + [Github Archive](https://github.com/igrigorik/githubarchive.org)
