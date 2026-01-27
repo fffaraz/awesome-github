@@ -77,6 +77,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) - Follow new trending repositories in your favorite programming language via GitHub notifications.
 + [CoderStats](https://coderstats.net/) - View statistics for GitHub users and organizations.
 + [Pull Request Badge](https://pullrequestbadge.com/) Programatically insert badges in your pull request descriptions and then link them to anything.
++ [ExplainThisRepo](https://github.com/calchiwo/ExplainThisRepo) - CLI tool that explains GitHub repositories in plain English and detects their tech stack.
 
 ## Emoji
 
