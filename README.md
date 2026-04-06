@@ -35,6 +35,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net)
 * [Git Commands - App cross-platform](https://github.com/mariorodeghiero/git-commands) - Mário Rodeghiero
 * [GitKraken](https://www.gitkraken.com/) - Cross-platform git visualizer
+* [gitty](https://github.com/Omibranch/gitty) - Single-binary CLI that replaces git add/commit/push workflows with human-readable commands
 
 ---
 * Pro Git Online Book [http://git-scm.com/book](http://git-scm.com/book)
