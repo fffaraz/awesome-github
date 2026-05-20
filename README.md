@@ -101,6 +101,8 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 
 ## Apps
 
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
+
 ### Android
 * [GitHub Official App](https://play.google.com/store/apps/details?id=com.github.android&hl=en)
 * [FastHub for GitHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en) - Open source unofficial GitHub client app
