@@ -62,6 +62,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [Github Archive](https://github.com/igrigorik/githubarchive.org)
 + [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 + [Github Contributions Generator](https://github.com/IonicaBizau/github-contributions)
++ [GitHub DeployLens](https://www.deploylens.dev/) - Real-time Kanban dashboard for GitHub deployment pipelines that turns PRs, workflow runs, and environments into a live kanban dashboard via webhooks with zero configuration.
 + [Github Friction tool](https://github.com/rafalchmiel/friction)
 + [Github Hall of Fame](https://github.com/mehulkar/github-hall-of-fame)
 + [Github Improve Git CLI](https://hub.github.com)
