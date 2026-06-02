@@ -78,6 +78,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 + [CoderStats](https://coderstats.net/) - View statistics for GitHub users and organizations.
 + [Pull Request Badge](https://pullrequestbadge.com/) Programatically insert badges in your pull request descriptions and then link them to anything.
 + [gh-star-history](https://github.com/ykdojo/gh-star-history) - Visualize and compare GitHub star history as interactive charts.
++ [github-rep](https://github.com/basilalshukaili/github-rep) - Score any GitHub profile across 11 reputation signals with actionable, prioritized recommendations. CLI, pip install.
 
 ## Emoji
 
