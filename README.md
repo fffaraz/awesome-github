@@ -106,3 +106,4 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * [FastHub for GitHub](https://play.google.com/store/apps/details?id=com.fastaccess.github&hl=en) - Open source unofficial GitHub client app
 * [OpenHub for GitHub](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=en) - Another open source GitHub client app
 * [OctoDroid for GitHub](https://play.google.com/store/apps/details?id=com.gh4a&hl=en) - Yet another open source GitHub client app
+- [BreakShield CI](https://github.com/apps/breakshield-ci) - GitHub App that catches breaking API changes in PRs using AST analysis, with AI auto-fix via `/fix` command.
