@@ -47,6 +47,7 @@ A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 * Git Immersion [http://gitimmersion.com](http://gitimmersion.com)
 * Git Branching [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/)
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of helper scripts for git.
+* [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action for conventional-commit GitHub release notes; no API and no config file.
 * [How to Get More Out of Your Git Commit Message](https://datree.io/blog/git-commit-message-conventions-for-readable-git-log/) - Guide about how to write and enforce a proper commit message
 
 ## GitHub
